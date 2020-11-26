@@ -63,4 +63,4 @@ Contributions are welcome!
 Documentation
 =============
 
-Directly from Micropython Documentation and STMicroelectronics
+Directly from Micropython Documentation, STMicroelectronics and Invensense
