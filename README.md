@@ -40,7 +40,6 @@ def Midea(cuantos=10):
 		n1=0
 		time.sleep(1)
 
-
 For MPU9250:
 import machine
 import Mpu9250
@@ -54,6 +53,8 @@ mpu.magnetic
 To calibrate first time, and change parameter:
 mpu.calibrate()
 mpu.aka8963.calibrate()
+
+
 Contributing
 ============
 
